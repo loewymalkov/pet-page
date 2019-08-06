@@ -1,0 +1,17 @@
+h1 {
+  color: lightblue;
+  text-align: center;
+}
+
+h2 {
+  font-weight: bolder;
+  font-style: italic;
+  font-family: fantasy;
+}
+
+
+ul {
+  line-height: normal;
+  background-color: lightgray;
+  font-size: 20px;
+}
